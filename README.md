@@ -51,8 +51,8 @@ Execute the script to view the plots showing how attack capabilities, defense ef
 ## Implications and Further Research
 
 This model suggests that without robust and adaptive defensive mechanisms, AI-driven cyber threats could potentially escalate exponentially, leading to rapid degradation of system security. Researchers are encouraged to expand upon this framework, integrating more complex AI behaviors and testing different defense strategies. The potential for AI to both enhance and compromise security dramatically underscores the need for continued innovation in cybersecurity methodologies.
+![super-agent](https://github.com/DarrellYoung/Super-Agent/assets/155460049/0ec76bb1-61b8-4512-b446-7aeb6369a06e)
 
-![plot](./images/super-agent.png)
 
 ## Conclusion
 
